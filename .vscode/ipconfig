@@ -1,0 +1,4 @@
+netstat -n
+netstat -l
+ping
+roottree
